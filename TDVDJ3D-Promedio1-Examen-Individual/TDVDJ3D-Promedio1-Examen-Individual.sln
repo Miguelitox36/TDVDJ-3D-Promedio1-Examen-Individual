@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37216.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDVDJ3D-Promedio1-Examen-Individual", "TDVDJ3D-Promedio1-Examen-Individual\TDVDJ3D-Promedio1-Examen-Individual.csproj", "{B6DEF8B5-5908-4F48-B4E7-274BFEFA79BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6DEF8B5-5908-4F48-B4E7-274BFEFA79BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6DEF8B5-5908-4F48-B4E7-274BFEFA79BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6DEF8B5-5908-4F48-B4E7-274BFEFA79BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6DEF8B5-5908-4F48-B4E7-274BFEFA79BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE888212-84CB-4A35-8163-FD31899CF950}
+	EndGlobalSection
+EndGlobal
