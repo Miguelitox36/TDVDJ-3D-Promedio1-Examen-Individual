@@ -6,10 +6,12 @@ using System.Threading.Tasks;
 
 namespace TDVDJ3D_Promedio1_Examen_Individual
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
+            Game game = new Game();
+            game.Start();
         }
     }
 }
