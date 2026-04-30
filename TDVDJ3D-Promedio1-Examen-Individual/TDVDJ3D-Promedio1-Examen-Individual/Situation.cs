@@ -8,7 +8,7 @@ namespace TDVDJ3D_Promedio1_Examen_Individual
 {
     public abstract class Situation
     {
-        public string Description { get; set; }
+        public string Description;
         protected List<Choice> choices = new List<Choice>();
 
         public void Play(Player player)
